@@ -46,7 +46,6 @@ My work centers around creating and maintaining platforms that empower real-time
 ## Professional Journey
 
 * **Chief Innovation Officer:** Stage TEN (Current, 8 years)
-* **CTO:** OcularAI
 * **CTO & Co-founder:** HOVR.IT (Acquired by Slyce)
 * **CTO:** Slyce (TSX-V)
 * **Creator & Maintainer:** VDO.Ninja, SocialStream.Ninja, Raspberry.Ninja, Caption.Ninja, ElectronCapture.app
