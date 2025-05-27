@@ -77,7 +77,7 @@ My work centers around creating and maintaining platforms that empower real-time
 * **VDO.Ninja:** Empowering millions globally with free, professional-grade streaming tools.
 * **HOVR.IT Acquisition:** Successful venture culminating in acquisition by a publicly traded company.
 * **2001 Canadian Secondary School Rowing Association (CSSRA) Men's Heavy Double:** Gold medalist.
-* **Active Open Source Contributor:** Extensive GitHub profile with 231 repositories and over 3.2k stars on key projects.
+* **Active Open Source Contributor:** Extensive GitHub profile with over 231 repositories and over 3.2k stars on key projects.
 
 ---
 
