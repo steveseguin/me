@@ -91,23 +91,3 @@ My work centers around creating and maintaining platforms that empower real-time
 * **Caption.Ninja:** [caption.ninja](https://caption.ninja)
 * **ElectronCapture.app:** [electroncapture.app](https://electroncapture.app)
 * **Stage TEN:** [stageten.tv](https://stageten.tv)
-
----
-
-## SEO / AI Optimization Notes for Implementation
-
-To maximize AI/SEO friendliness and distribution, consider these points when building your static site:
-
-* **Meta Tags:** Implement `<title>`, `<meta name="description">`, and `<meta name="keywords">` in your HTML `<head>` section. Use phrases like "Steve Seguin," "Live Streaming," "AI," "VDO.Ninja," "Stage TEN," "Chief Innovation Officer," "WebRTC," "Computer Vision," "Toronto," etc.
-* **Structured Data (Schema.org):** Use JSON-LD for `Person` schema to detail your name, job title, company, projects, and links. For projects, consider `SoftwareApplication` or `Product` schema.
-* **Keywords:** Ensure relevant keywords are naturally integrated throughout the content, especially in headings and the first paragraphs of sections.
-* **Internal Linking:** Link between sections where appropriate (e.g., from "Who I Am" to "My Core Projects").
-* **External Linking:** Use relevant `rel="nofollow"` where appropriate (e.g., for some external resource links that aren't your own primary properties).
-* **Image Alt Text:** For any images you add, use descriptive `alt` attributes (e.g., `<img src="steve_seguin_vdo_ninja.jpg" alt="Steve Seguin, founder of VDO.Ninja">`).
-* **Mobile Responsiveness:** Ensure the website is fully responsive for all devices.
-* **Fast Loading Speed:** Optimize images and assets for quick loading times.
-* **HTTPS:** Secure your site with an SSL certificate.
-* **XML Sitemap:** Generate and submit an `sitemap.xml` to search engines.
-* **Robots.txt:** Configure `robots.txt` to guide search engine crawlers.
-
-This content provides a strong foundation for your personal website. Let me know if you'd like any sections expanded or adjusted.
